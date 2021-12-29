@@ -12,8 +12,6 @@ Lista de tópicos tem paginação e cache para melhorar a performance.
 
 # Como executar o projeto
 
-Pré-requisitos: Python 3
-
 ```bash
 # clonar repositório
 $ git clone -b main https://github.com/MatheusSaraiva/forum.git
